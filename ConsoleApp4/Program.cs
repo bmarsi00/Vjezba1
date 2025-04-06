@@ -20,3 +20,6 @@ namespace ConsoleApp4
         }
     }
 }
+        static void metoda2(){}
+    }
+}

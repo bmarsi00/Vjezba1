@@ -11,4 +11,9 @@ namespace ConsoleApp4
             Console.WriteLine("Novo");
         }
     }
+
+    class NewClass
+    {
+
+    }
 }

@@ -14,6 +14,6 @@ namespace ConsoleApp4
 
     class NewClass
     {
-
+        static void metoda2(){}
     }
 }

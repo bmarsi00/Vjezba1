@@ -18,8 +18,6 @@ namespace ConsoleApp4
         {
 
         }
-    }
-}
-        static void metoda2(){}
+        static void Metoda2() { }
     }
 }
